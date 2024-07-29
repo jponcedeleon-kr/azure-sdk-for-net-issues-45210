@@ -1,0 +1,5 @@
+.idea
+*.DotSettings*
+
+bin
+obj
